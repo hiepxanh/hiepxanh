@@ -1,3 +1,6 @@
+Xin chào các bạn, xem cv của mình tại đây [CV](https://hiepxanh.github.io/) và dự án mình đang làm tại đây nhé [https://awread.vn](https://awread.vn)
+
+
 [![Thông số Github của Hiệp](https://github-readme-stats.vercel.app/api?username=hiepxanh&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 

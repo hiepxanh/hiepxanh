@@ -1,12 +1,16 @@
-Xin chào các bạn, xem cv của mình tại đây [CV](https://hiepxanh.github.io/) và dự án mình đang làm tại đây nhé [https://awread.vn](https://awread.vn)
+“I fear not the man who has practiced 10,000 kicks once, but I fear the man who has practiced one kick 10,000 times.”
+only focus in Angular framework from AngularJS to Angular 14
+DM if you have project or need help on Angular
+
+working on [https://awread.vn](https://awread.vn)
 
 
-[![Thông số Github của Hiệp](https://github-readme-stats.vercel.app/api?username=hiepxanh&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![stats](https://github-readme-stats.vercel.app/api?username=hiepxanh&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Ngôn ngữ Hiệp hay dùng nhất](https://github-readme-stats.vercel.app/api/top-langs/?username=hiepxanh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![my language](https://github-readme-stats.vercel.app/api/top-langs/?username=hiepxanh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Wakatime của Hiệp](https://github-readme-stats.vercel.app/api/wakatime?username=hiepxanh&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats)
+[![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=hiepxanh&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=hiepxanh&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)

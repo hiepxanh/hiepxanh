@@ -4,6 +4,8 @@ DM if you have project or need help on Angular
 
 working on [https://awread.vn](https://awread.vn)
 
+my CV here: https://hiepxanh.github.io/
+
 
 [![stats](https://github-readme-stats.vercel.app/api?username=hiepxanh&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 

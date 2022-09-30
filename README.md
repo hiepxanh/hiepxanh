@@ -6,6 +6,15 @@ working on [https://awread.vn](https://awread.vn)
 
 my CV here: https://hiepxanh.github.io/
 
+Stack: 
+framework: AngularJS to Angular latest | Nodejs | NestJS
+database: PostgreSQL | Redis | Clickhouse |
+frontend library: Tailwind | Akita | Firebase |
+backend library: Postgraphile | Passport |
+Devops: Dokku | Docker | Portainer
+Cloud: Google Cloud | Amazon Web Service
+
+
 
 [![stats](https://github-readme-stats.vercel.app/api?username=hiepxanh&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 

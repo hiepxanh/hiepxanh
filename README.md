@@ -2,7 +2,7 @@
 only focus in Angular framework from AngularJS to Angular 14
 DM if you have project or need help on Angular
 
-creator of: [https:bookable.ca](https://bookable.ca)
+creator of: [https://bookable.ca](https://bookable.ca)
 
 working on [https://awread.vn](https://awread.vn)
 

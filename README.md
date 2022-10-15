@@ -6,6 +6,8 @@ creator of: [https://bookable.ca](https://bookable.ca)
 
 working on [https://awread.vn](https://awread.vn)
 
+creator of: [Vboy - Vite Test Runner](https://marketplace.visualstudio.com/items?itemName=hiepxanh.vscode-vboy)
+
 my CV here: https://hiepxanh.github.io/
 
 email: hiepxanh@gmail.com

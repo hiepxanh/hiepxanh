@@ -42,6 +42,6 @@ Cloud: Google Cloud | Amazon Web Service
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=hiepxanh&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-[vscode logo](Angular.png "Title")
+![vscode logo](Angular.png "Title")
 https://gist.github.com/hiepxanh/c4e1c282445cdb403764b64d0493bc23
 [using custom logo for vscode ](https://github.com/Ender-Wiggin2019/VTuber-Logos-Collection)

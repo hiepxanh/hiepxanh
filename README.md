@@ -41,3 +41,7 @@ Cloud: Google Cloud | Amazon Web Service
 [![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=hiepxanh&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=hiepxanh&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+[vscode logo](Angular.png "Title")
+https://gist.github.com/hiepxanh/c4e1c282445cdb403764b64d0493bc23
+[using custom logo for vscode ](https://github.com/Ender-Wiggin2019/VTuber-Logos-Collection)

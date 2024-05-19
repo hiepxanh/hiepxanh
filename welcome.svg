@@ -1,299 +1,66 @@
-<svg fill="none"  width="100%" height="840px" xmlns="http://www.w3.org/2000/svg">
-    <foreignObject width="100%" height="100%">
-        <div xmlns="http://www.w3.org/1999/xhtml">
-            <style>
-                .circle1,
-                .circle2 {
-                    border: 15px solid rgba(16, 134, 232, 1);
-                    background-color: transparent;
-                    /* makes the inner space transparent */
-                    width: 300px;
-                    height: 300px;
-                    border-radius: 50%;
-                    position: absolute;
-                    transform: translate(-50%, -50%);
-                    animation: rotate 72s infinite linear;
-                }
-            
-                .circle2 {
-                    width: 345px;
-                    height: 345px;
-                    animation: rotate 24s infinite linear;
-                }
-            
-                @keyframes rotate {
-                    0% {
-                        transform: rotateY(0deg) rotateX(0deg);
-                        box-shadow: 0px 0px 78px 4px rgba(16, 134, 232, 0.73);
-                    }
-            
-                    100% {
-                        transform: rotateY(360deg) rotateX(360deg);
-                        box-shadow: 0px 0px 78px 4px rgba(16, 134, 232, 0.73);
-                    }
-                }
-            
-                .anime {
-                    display: flex;
-                    justify-content: center;
-                    align-items: center;
-                    width: 300px;
-                    /* Adjust width as needed */
-                    height: 300px;
-                    /* Adjust height as needed */
-                    position: relative;
-                }
-            
-                .ball {
-                    width: 60px;
-                    height: 60px;
-                    border-radius: 50%;
-                    box-shadow:
-                        0 0 20px #fff,
-                        -20px 0 80px #91bd09,
-                        20px 0 80px #0ff,
-                        inset 0 0 50px #fff,
-                        inset 50px 0 80px #91bd09,
-                        inset -50px 0 80px #0ff,
-                        inset 50px 0 300px #91bd09,
-                        inset -50px 0 300px #0ff;
-                    animation: pulsate 36s linear infinite;
-                    position: absolute;
-                    top: 49%;
-                    left: 49%;
-                    transform: translate(-50%, -50%);
-                }
-            
-                @keyframes pulsate {
-                    50% {
-                        box-shadow:
-                            0 0 20px #fff,
-                            20px 0 80px #1086e8,
-                            -20px 0 80px #0ff,
-                            inset 0 0 50px #fff,
-                            inset -50px 0 80px #1086e8,
-                            inset 50px 0 80px #0ff,
-                            inset -50px 0 300px #1086e8,
-                            inset 50px 0 300px #1086e8;
-                    }
-                }
-            
-                .name {
-                    position: absolute;
-                    top: 49%;
-                    left: 49%;
-                    transform: translate(-50%, -50%);
-                    display: none;
-                }
-            
-                .banner {
-                    display: flex;
-                    align-items: center;
-                    justify-content: center;
-                    background-position: left bottom;
-                    background-origin: content-box;
-                    position: relative;
-                    overflow: hidden;
-                    /* margin-bottom: 100px; */
-                    background-color: black;
-                    height: 840px;
-                    background-repeat: repeat no-repeat;
-                    z-index: 9;
-                }
-            
-                .banner .shooting_star_container1losa {
-                    position: absolute;
-                    bottom: 400px;
-                    left: 0;
-                    -webkit-transform: rotateZ(30deg);
-                    transform: rotateZ(30deg)
-                }
-            
-                .banner .shooting_star_container1losa .shooting_star {
-                    -webkit-animation: tail1 6000ms ease-in-out infinite, shooting1 6000ms ease-in-out infinite;
-                    animation: tail1 6000ms ease-in-out infinite, shooting1 6000ms ease-in-out infinite
-                }
-            
-                .banner .shooting_star_container2tinycosmos {
-                    position: absolute;
-                    bottom: 200px;
-                    left: 1730px;
-                    -webkit-transform: rotateZ(-150deg);
-                    transform: rotateZ(-150deg)
-                }
-            
-                .banner .shooting_star_container2tinycosmos .shooting_star {
-                    -webkit-animation: tail2 6000ms ease-in-out infinite, shooting2 6000ms ease-in-out infinite;
-                    animation: tail2 6000ms ease-in-out infinite, shooting2 6000ms ease-in-out infinite
-                }
-            
-                .banner .shooting_star {
-                    position: absolute;
-                    height: 2px;
-                    background: linear-gradient(-45deg, #42ffd2, rgba(0, 0, 255, 0));
-                    border-radius: 999px;
-                    -webkit-filter: drop-shadow(0 0 6px #42ffd2);
-                    filter: drop-shadow(0 0 6px #42ffd2)
-                }
-            
-                @-webkit-keyframes shooting1 {
-                    0% {
-                        -webkit-transform: translateX(0);
-                        transform: translateX(0)
-                    }
-            
-                    50% {
-                        -webkit-transform: translateX(400px);
-                        transform: translateX(400px)
-                    }
-            
-                    100% {
-                        -webkit-transform: translateX(400px);
-                        transform: translateX(400px)
-                    }
-                }
-            
-                @keyframes shooting1 {
-                    0% {
-                        -webkit-transform: translateX(0);
-                        transform: translateX(0)
-                    }
-            
-                    50% {
-                        -webkit-transform: translateX(400px);
-                        transform: translateX(400px)
-                    }
-            
-                    100% {
-                        -webkit-transform: translateX(400px);
-                        transform: translateX(400px)
-                    }
-                }
-            
-                @-webkit-keyframes shooting2 {
-                    0% {
-                        -webkit-transform: translateX(0);
-                        transform: translateX(0)
-                    }
-            
-                    50% {
-                        -webkit-transform: translateX(0);
-                        transform: translateX(0)
-                    }
-            
-                    100% {
-                        -webkit-transform: translateX(400px);
-                        transform: translateX(400px)
-                    }
-                }
-            
-                @keyframes shooting2 {
-                    0% {
-                        -webkit-transform: translateX(0);
-                        transform: translateX(0)
-                    }
-            
-                    50% {
-                        -webkit-transform: translateX(0);
-                        transform: translateX(0)
-                    }
-            
-                    100% {
-                        -webkit-transform: translateX(400px);
-                        transform: translateX(400px)
-                    }
-                }
-            
-                @-webkit-keyframes tail1 {
-                    0% {
-                        width: 0
-                    }
-            
-                    15% {
-                        width: 100px
-                    }
-            
-                    50% {
-                        width: 0
-                    }
-                }
-            
-                @keyframes tail1 {
-                    0% {
-                        width: 0
-                    }
-            
-                    15% {
-                        width: 100px
-                    }
-            
-                    50% {
-                        width: 0
-                    }
-                }
-            
-                @-webkit-keyframes tail2 {
-                    0% {
-                        width: 0
-                    }
-            
-                    50% {
-                        width: 0
-                    }
-            
-                    75% {
-                        width: 100px
-                    }
-            
-                    100% {
-                        width: 0
-                    }
-                }
-            
-                @keyframes tail2 {
-                    0% {
-                        width: 0
-                    }
-            
-                    50% {
-                        width: 0
-                    }
-            
-                    75% {
-                        width: 100px
-                    }
-            
-                    100% {
-                        width: 0
-                    }
-                }
-            </style>
-            <div class="banner -z-1">
-                <div class="shooting_star_container1losa">
-                    <div class="shooting_star"></div>
-                </div>
-                <div class="shooting_star_container2tinycosmos">
-                    <div class="shooting_star"></div>
-                </div>
-                <div class="anime transform -translate-y-52">
-                    <div class="ball"></div>
-                    <div class="circle1"></div>
-                    <div class="circle2"></div>
-                </div>
-                <div class="text text-white absolute bottom-40 md:bottom-48">
-                    <h1 class="px-4 py-2 text-3xl md:text-6xl">
-                        <b class="text-accent">LOSA - trợ lý luật AI</b>
-                        <br>
-                    </h1>
-                    <h2 class="py-2 px-4 text-2xl md:text-4xl">Ứng dụng công nghệ AI trong ngành luật</h2>
-                    <h3 class="px-4 text-xl">Tối ưu thời gian - Tối đa hiệu quả</h3>
-                    <div class="px-4 py-2">
-                        <a href="https://c.losa.vn" class="btn btn-accent mt-4">Bắt đầu ngay</a>
-                        <!-- <button>Đăng nhập</button> -->
-                        <!-- <button>Đăng ký</button> -->
-                    </div>
-                </div>
-            </div>
-        </div>
-    </foreignObject>
+<svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        @keyframes hi  {
+            0% { transform: rotate( 0.0deg) }
+           10% { transform: rotate(14.0deg) }
+           20% { transform: rotate(-8.0deg) }
+           30% { transform: rotate(14.0deg) }
+           40% { transform: rotate(-4.0deg) }
+           50% { transform: rotate(10.0deg) }
+           60% { transform: rotate( 0.0deg) }
+          100% { transform: rotate( 0.0deg) }
+        }
+
+        @keyframes gradient {
+          0% {
+            background-position: 0% 50%;
+          }
+          50% {
+            background-position: 100% 50%;
+          }
+          100% {
+            background-position: 0% 50%;
+          }
+        }
+
+        .container {
+          background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+          background-size: 400% 400%;
+          animation: gradient 15s ease infinite;
+
+          width: 100%;
+          height: 300px;
+
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          color: white;
+
+          font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+        }
+
+        .hi {
+          animation: hi 1.5s linear -0.5s infinite;
+          display: inline-block;
+          transform-origin: 70% 70%;
+        }
+
+        @media (prefers-reduced-motion) {
+          .container {
+            animation: none;
+          }
+
+          .hi {
+            animation: none;
+          }
+        }
+      </style>
+
+      <div class="container">
+        <h1>Hi there, my name is Nikola <div class="hi">👋</div></h1>
+      </div>
+    </div>
+  </foreignObject>
 </svg>

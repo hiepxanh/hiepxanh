@@ -1,6 +1,6 @@
 <div style="width: 100%;">
   <a href="https://github.com/hiepxanh/hiepxanh/blob/master/welcome.svg">
-    <img src="welcome.svg" style="width: 100%;" alt="Click to see the source">
+    <img src="welcome.svg" style="width: 100%;" alt="Click to see the name">
   </a>
 </div>
 

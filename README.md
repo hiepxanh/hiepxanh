@@ -1,3 +1,9 @@
+<div style="width: 100%;">
+  <a href="https://github.com/hiepxanh/hiepxanh/welcome.svg">
+    <img src="welcome.svg" style="width: 100%;" alt="Click to see the source">
+  </a>
+</div>
+
 “I fear not the man who has practiced 10,000 kicks once, but I fear the man who has practiced one kick 10,000 times.”
 only focus in Angular framework from AngularJS to Angular 18.
 
@@ -44,4 +50,8 @@ Cloud: Google Cloud | Amazon Web Service
 
 ![vscode logo](Angular.png "Title")
 https://gist.github.com/hiepxanh/c4e1c282445cdb403764b64d0493bc23
+
 [using custom logo for vscode ](https://github.com/Ender-Wiggin2019/VTuber-Logos-Collection)
+
+svg to readme profile is credit to [https://pragmaticpineapple.com/adding-custom-html-and-css-to-github-readme/](https://pragmaticpineapple.com/adding-custom-html-and-css-to-github-readme/) and [https://github.com/nikolalsvk](https://github.com/nikolalsvk)
+

@@ -9,7 +9,7 @@ only focus in Angular framework from AngularJS to Angular 18.
 
 I'm working on upgrade task, rewrite library , upgrade SSR Angular Universal, lazyload, and improve performance on Angular.
 
-DM if you have project or need help on Angular
+DM if you have project or need help on Svelte (or Angular)
 
 Losa: https://losa.vn 
 
@@ -48,6 +48,7 @@ Cloud: Google Cloud | Amazon Web Service
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=hiepxanh&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
+![vscode logo](Svelte.png "Title")
 ![vscode logo](Angular.png "Title")
 https://gist.github.com/hiepxanh/c4e1c282445cdb403764b64d0493bc23
 

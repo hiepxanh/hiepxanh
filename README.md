@@ -11,7 +11,7 @@ I'm working on upgrade task, rewrite library , upgrade SSR Angular Universal, la
 
 DM if you have project or need help on Svelte (or Angular)
 
-Losa: https://losa.vn 
+Losan: https://losan.ai
 
 creator of: [https://bookable.ca](https://bookable.ca)
 
